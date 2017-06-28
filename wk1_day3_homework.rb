@@ -3,12 +3,13 @@
 lines = ['Gyle Centre', 'Edinburgh Park', 'Murrayfield Stadium', 'Haymarket', 'Princes Street']
 
 # 1. Work out how many stops there are in the array
-puts lines.length
+#puts lines.length
 
 
 # puts lines.length()
 
 # 2. Return 'Edinburgh Park' from the array
+return lines[1]
 
 # 3. How many ways can we return 'Princes Street' from the array?
 
